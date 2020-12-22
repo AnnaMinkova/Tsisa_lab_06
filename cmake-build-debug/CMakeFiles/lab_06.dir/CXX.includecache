@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/annaminkova/Bmstu/Tsisa/lab_06/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+iomanip
+-
+
